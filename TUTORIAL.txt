@@ -9,3 +9,7 @@ javac Calculator.java
 java Calculator
 
 - Follow the instructions along
+
+---Conflict was here and was resolved---
+
+This edit is done on the web browser.
