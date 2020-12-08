@@ -1,0 +1,11 @@
+This is being updated via the command line
+
+- To run this you need to have JDK
+
+- Go to the directory having Calculator.java using the command prompt and type...
+
+javac Calculator.java
+
+java Calculator
+
+- Follow the instructions along
